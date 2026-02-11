@@ -1,0 +1,18 @@
+streamlit - Web-based interface - main.py, app_*.py
+tensorflow
+torch           -- Model inference -- models/audio_model.py, models/video_model.py
+torchvision
+librosa
+soundfile  --   Audio feature extraction -- utils/mel_spectrogram.py, utils/extract_audio.py
+pydub
+moviepy         
+opencv-python   --Frame extraction, face detection--utils/extract_frames.py, utils/video_face.py
+ffmpeg-python
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+face_recognition    --Detects faces for deepfake analysis-- utils/video_face.py
+dlib
+tqdm
